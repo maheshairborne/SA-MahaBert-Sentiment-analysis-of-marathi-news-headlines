@@ -29,3 +29,11 @@ The objective of SA-MahaBERT is to leverage transformer-based language models fo
 
 Model hosted on Hugging Face:
 https://huggingface.co/mahesh611/SA-MahaBERT
+
+
+## Dataset
+
+The dataset consists of Marathi news headlines annotated with sentiment labels (positive, negative, neutral).
+The dataset was derived from the L3Cube-MahaNews corpus and further processed for sentiment analysis by introducing sentiment annotations.
+Training, validation, and test splits are generated programmatically during experimentation using stratified sampling.
+
