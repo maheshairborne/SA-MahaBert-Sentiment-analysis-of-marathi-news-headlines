@@ -37,3 +37,5 @@ The dataset consists of Marathi news headlines annotated with sentiment labels (
 The dataset was derived from the L3Cube-MahaNews corpus and further processed for sentiment analysis by introducing sentiment annotations.
 Training, validation, and test splits are generated programmatically during experimentation using stratified sampling.
 
+## License
+The dataset included in this repository is derived from the L3Cube-MahaNews dataset and is distributed under the CC BY-NC-SA 4.0 license. See LICENSE_DATASET.md for details.
