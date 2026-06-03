@@ -24,3 +24,8 @@ SA-MahaBERT (Sentiment Analysis using MahaBERT) is a transformer-based sentiment
 ## Project Goal
 
 The objective of SA-MahaBERT is to leverage transformer-based language models for accurate sentiment analysis and provide an end-to-end workflow that can be extended to real-world NLP applications.
+
+## Model Weights
+
+Model hosted on Hugging Face:
+https://huggingface.co/mahesh611/SA-MahaBERT
